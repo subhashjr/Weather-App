@@ -47,7 +47,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/javitocor/Weather-App-JS/feature/dist/index.html) :point_left:
+[Live Demo Link](https://) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
@@ -72,25 +72,22 @@ Clone the repository unto your local machine cd to the folder.
 
 ## Author
 
-👤 Javier Oriol Correas Sanchez Cuesta 
-- Github: [@javitocor](https://github.com/javitocor) 
-- Twitter: [@JavierCorreas4](https://twitter.com/JavierCorreas4) 
-- Linkedin: [Javier Oriol Correas Sanchez Cuesta](https://www.linkedin.com/in/javier-correas-sanchez-cuesta-15289482/) 
+👤 Joash S 
+- Github: [@subhashjr](https://github.com/subhashjr) 
+- Twitter: [@JoashS3](https://twitter.com/JoashS3) 
+- Linkedin: [Joash S](https://www.linkedin.com/in/joashsubhash/) 
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Weather-App-JS/issues).
-
+Feel free to check my porfolio (https://joash.in) 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments 🚀
 
-- The Odin Project
-- Microverse
 
 ## 📝 License
 
@@ -98,8 +95,6 @@ This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Weather-App-JS.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Weather-App-JS/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/javitocor/Weather-App-JS.svg?style=flat-square
 [forks-url]: https://github.com/javitocor/Weather-App-JS/network/members
 [stars-shield]: https://img.shields.io/github/stars/javitocor/Weather-App-JS.svg?style=flat-square
